@@ -1,20 +1,15 @@
-<!DOCTYPE html>
-<html lang="UTF-8">
-
-<head>
-    <meta charset="viewport" content="with device-width, initial-scale"
-    <title>About Me</title>
-</head>
-<body> 
-    <div class="top-menu">
-        <div class="list-menu"><a href="">Home</a></div>
-        <div class="list-menu"><a href="">About Me</a></div>
-        <div class="list-menu"><a href="">My Work</a></div>
-        <div class="list-menu"><a href="">Contact</a></div>
-    </div>
+body{
+        background: #ff5e00;
+    }
     
-    <h4.About Me</h4>
-    <p>leader of opium is playboi carti
-        
-    </body>
-    </html>        
+    .title{
+        color: white;
+    }
+    
+    .top-menu{
+        display: flax;
+        gap:30px;
+        .list-menu a{
+            color: #ff6601;
+        }
+    }
